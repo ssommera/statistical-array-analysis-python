@@ -8,7 +8,7 @@ This repository contains the **Python implementation** of the statistical array 
 
 ## 🧠 Purpose
 
-The goal of this project is to perform statistical computations and summaries on array data. This version is written in Python using libraries such as `NumPy` and `Pandas`, making it more suitable for data science and machine learning workflows.
+The goal of this project is to perform statistical computations and summaries on array data. This version is written in Python using only standard libraries, making it lightweight and easily portable.
 
 ---
 
@@ -39,9 +39,6 @@ All outputs are displayed alongside positional metadata, modeling the kind of su
 - **Array Transformations**  
   - Normalization and standardization
 
-- **Tabular Summaries**  
-  - Clean, Pandas-style dataframes for intuitive output
-
 ---
 
 ## 🧪 Research Relevance & AI Applications
@@ -63,7 +60,7 @@ All outputs are displayed alongside positional metadata, modeling the kind of su
 ## 🧠 Code Insights: AI & Data Science Principles
 
 - **Pythonic Design**  
-  Follows idiomatic Python using comprehensions, unpacking, and vectorized NumPy operations.
+    Emphasizes clean syntax, list comprehensions, and modular functions.
 
 - **Modularity**  
   Functions are organized for clarity, testing, and reuse.
